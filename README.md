@@ -1,5 +1,5 @@
 # Trabajo Práctico N° 3 - Procesamiento de Imágenes TUIA
-## Este repositorio contiene la implementación de algoritmos de procesamiento de imágenes para la resolución del TP2.
+## Este repositorio contiene la implementación de algoritmos de procesamiento de imágenes para la resolución del TP3.
 
 <div/>
 
